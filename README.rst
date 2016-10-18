@@ -35,7 +35,8 @@ Any information added on an activity will not be shown until it is accepted by o
 
 Following the principles of `Open Data <https://wikipedia.org/wiki/Open_data>`_, every information about any activity will be accessible through an API, allowing people to create mirrors easily.
 
-# Support CoNet
+Support CoNet
+-------------
 
 .. image:: https://codoit.github.io/conet/images/kickstarter-logo.png
    :target: https://www.kickstarter.com/projects/1242441071/conet
